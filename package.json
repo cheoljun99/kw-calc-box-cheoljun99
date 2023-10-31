@@ -1,0 +1,25 @@
+{
+    "name": "kw-calc-box-2018202065",
+    "version": "0.0.1",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "bin": {
+        "calcbox": "./main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/cheoljun99/kw-calc-box-2018202065.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/cheoljun99/kw-calc-box-2018202065/issues"
+    },
+    "homepage": "https://github.com/cheoljun99/kw-calc-box-2018202065#readme",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
